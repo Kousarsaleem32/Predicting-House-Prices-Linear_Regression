@@ -1,5 +1,4 @@
 # Predicting-House-Prices-Linear_Regression
-# Housing Price Prediction using Linear Regression
 
 This repository contains a machine learning project focused on predicting house prices using **Linear Regression** on the **Kaggle Housing dataset**.
 
