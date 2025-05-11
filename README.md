@@ -10,5 +10,6 @@ This repository contains a machine learning project focused on predicting house 
 
 ## Model Evaluation Metrics
 
-- **R² Score**: \( R^2 = 0.67 \)
-- **Mean Squared Error (MSE)**: \( 4.2 \times 10^{12} \)
+- **R² Score**: 0.67
+- **Mean Squared Error (MSE)**: 4.2 × 10¹²
+
