@@ -7,3 +7,8 @@ This repository contains a machine learning project focused on predicting house 
 - **Algorithm:** Linear Regression
 - **Dataset:** [Kaggle Housing Dataset](https://www.kaggle.com/datasets)
 - **Tools Used:** `Python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+
+## Model Evaluation Metrics
+
+- **R² Score**: \( R^2 = 0.67 \)
+- **Mean Squared Error (MSE)**: \( 4.2 \times 10^{12} \)
